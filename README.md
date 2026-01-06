@@ -1,1 +1,1 @@
-# ci-cd-k8s-deployment
+Update README with project details
